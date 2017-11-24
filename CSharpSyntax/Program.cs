@@ -113,6 +113,7 @@ namespace CSharpSyntax
                 Console.WriteLine("Vysledek v pozadovanem rozsahu {vysledek}");
             }
 
+
             Console.ReadLine();
         }
     }
